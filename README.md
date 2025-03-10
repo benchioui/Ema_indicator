@@ -32,7 +32,7 @@ If you're interested in collaborating, creating custom indicators, or have any q
 
 - **Email**: [contact.benchioui@gmail.com](mailto:contact.benchioui@gmail.com)  
 - **Twitter**: [@abdelbenchioui](https://x.com/abdelbenchioui)  
-- **LinkedIn**: [abdelilah-benchioui/](https://www.linkedin.com/in/abdelilah-benchioui/)  
+- **LinkedIn**: [@abdelilah-benchioui/](https://www.linkedin.com/in/abdelilah-benchioui/)  
 - **Telegram**: [@abbnci](https://t.me/abbnci)  
 
 Let’s build something amazing together! 🚀
